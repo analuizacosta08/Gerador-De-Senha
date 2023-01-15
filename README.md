@@ -1,6 +1,7 @@
-# Gerador-De-Senha
+# Gerador de senha
 
 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
