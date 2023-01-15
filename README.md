@@ -7,5 +7,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-💻 Projeto
-O projeto feito tem o objetivo de criar um gerador de senhas.
